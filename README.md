@@ -4,21 +4,11 @@
 
 
 
-
-
-<!-- Projekt Shields -->
-[![Build Status][build-shield]]()
-[![Contributors][contributors-shield]]()
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- Zenta LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/ZentaChain/Zentadex">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="70" height="80">
   </a>
 
   <h3 align="center">Wellcome to ZentaDEX</h3>
