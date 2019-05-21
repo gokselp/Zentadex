@@ -7,7 +7,7 @@
 <!-- Zenta LOGO -->
 <br />
 <p align="center">
-  <a href="https://raw.githubusercontent.com/ZentaChain/Zentadex/master/dex/readme%20docs/logo.png">
+  <a href="https://github.com/ZentaChain/Zentadex/tree/master/dex/readme%20docs">
     <img src="logo.png" alt="Logo" width="70" height="80">
   </a>
 
