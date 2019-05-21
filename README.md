@@ -31,12 +31,11 @@
 
 <!-- ABOUT ZENTADEX -->
 ## About ZENTADEX
+ZentaDex is not "Just Another" Dex, its an Open source fully Supported and Fast Exchange platform. You can trade every ERC-20 token over ZentaDex. the User Interface is easy to use and the Integration in our other products makes it more convenient for you! Due to the Nature of the Block-chain network your funds are secured on your own wallet, remember: not your keys not your coins. Also what are your waiting for? Trade on [ZentaDEX](http://www.zentalk.chat/) today!
 
-
-ZentaDEX is a full blown Exchange Plattform hostet on the Ethereum Network. Its fully integratet in the ZentaChain Products (ZentaVault, Zentalk and ZentaWallet) 
 
 Here's why:
-* ZentaDEX is a full blown Exchange Plattform hostet on the Ethereum Network. Its fully integratet in ZentaChain Products as ZentaVault, Zentalk and ZentaWallet 
+* ZentaDEX is a full blown Exchange Plattform hostet on the Ethereum Network. Its fully integratet in ZentaChain Products  as [ZentaVault](), [Zentalk](http://www.zentalk.chat/) and [ZentaWallet]()
 * We provide a secure integrated and 24/7 Supportet Platform 
 * The team works Daily on Improvements and you can help :smile:
 
